@@ -19,7 +19,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🍎 Alors que vous vous apprêtiez à cueillir un fruit au sommet de l'arbre, la branche qui vous soutenait s'éffondre sous votre poid ! Sonné par votre chute, vous décidez d'abandonner votre repas et reprenez votre route. :confounded:",
+					"fr": "** | 🍎 Alors que vous vous apprêtiez à cueillir un fruit au sommet de l'arbre, la branche qui vous soutenait s'éffondre sous votre poids ! Sonné par votre chute, vous décidez d'abandonner votre repas et reprenez votre route. :confounded:",
 					"en": "** | 🍎 As you were about to pick fruit from the top of the tree, the branch supporting you snaps under your weight! Stunned by your fall, you decide to give up on your meal and go back on your way. :confounded:"
 				},
 				"lostTime": 0,
@@ -171,7 +171,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🚶 Vous décidez de ne pas vous repaître. Mais finissez par regretter cette décision quelques heures plus tard. Affamé, vous décidez de prendre un peu de repos avant de reprendre la route. :sleeping:",
+					"fr": "** | 🚶 Vous décidez de ne pas vous repaître, mais finissez par regretter cette décision quelques heures plus tard. Affamé, vous décidez de prendre un peu de repos avant de reprendre la route. :sleeping:",
 					"en": "** | 🚶 You decide to not eat, but eventually regret this decision a few hours later. Hungry, you decide to take a little nap before getting back on the road. :sleeping:"
 				},
 				"lostTime": 0,
@@ -197,7 +197,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🚶 Vous cherchez une autre source de nourriture pendant quelques instants mais vous vous rendez compte au bout de longues recherches que ces dernières sont vaines. Pas convaincu par les options qui s'offrent à vous, vous reprenez votre route.",
+					"fr": "** | 🚶 Vous cherchez une autre source de nourriture mais vos longues recherches sont vaines. Pas convaincu par les options qui s'offrent à vous, vous reprenez votre route.",
 					"en": "** | 🚶 You look for another food source, but after a long search you realize that there aren't any food sources. Not convinced by the options available to you, you go back on your way."
 				},
 				"lostTime": 260,
