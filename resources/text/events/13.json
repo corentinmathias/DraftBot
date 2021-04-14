@@ -57,7 +57,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🔨 En essayant une épée, vous brisez la fenêtre de la forge, le forgeron demande remboursement !",
+					"fr": "** | 🔨 En essayant de manier une épée, vous brisez la fenêtre de la forge, le forgeron demande remboursement !",
 					"en": "** | 🔨 While trying a sword, you broke the smithy's window! The blacksmith asks for recompensation!"
 				},
 				"lostTime": 40,
@@ -93,7 +93,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🔨 Vous entrez et saluez le forgeron. Après une rapide inspection de son travail vous comprenez que vous ne trouverez rien d'intéressant ici. Vous reprenez votre route.",
+					"fr": "** | 🔨 Vous entrez et saluez le forgeron. Après une rapide inspection de son travail, vous comprenez que vous ne trouverez rien d'intéressant ici. Vous reprenez votre route.",
 					"en": "** | 🔨You enter and greet the blacksmith. After a quick inspection of his work, you understand you won't find anything interesting here. You go back on your way."
 				},
 				"lostTime": 20,
@@ -145,7 +145,7 @@
 		"🚶": [
 			{
 				"translations": {
-					"fr": "** | 🚶 Vous traversez le petit bourg en une petite demie-heure et continuez votre route.",
+					"fr": "** | 🚶 Vous traversez le petit bourg en une petite demi-heure et continuez votre route.",
 					"en": "** | 🚶You cross the little village in just half an hour and continue on your way."
 				},
 				"lostTime": 25,
