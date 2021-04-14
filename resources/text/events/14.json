@@ -7,7 +7,7 @@
 		"🔨": [
 			{
 				"translations": {
-					"fr": "** | 🔨 L'homme vous aperçoit et vous propose de vous fabriquer un objet avec lui. Après près d'une heure, votre création est terminée. L'homme vous l'offre en récompense !",
+					"fr": "** | 🔨 L'homme vous aperçoit et vous propose de fabriquer un objet avec lui. Après près d'une heure, votre création est terminée. L'homme vous l'offre en récompense !",
 					"en": "** | 🔨 The man sees you and suggests that you make an object with him. After almost an hour, your creation is finished. The man offers it to you as a reward!"
 				},
 				"lostTime": 60,
@@ -31,7 +31,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | 🔨 L'ouvrier vous aperçoit et vous propose de vous fabriquer une épée avec lui. Enthousiasmé à l’idée d’obtenir une nouvelle arme, vous acceptez. Maladroit, vous ne mettez pas longtemps à échapper votre lourde création sur le pied. Gravement blessé, vous abandonnez l’idée de créer votre propre arme. :dizzy_face: !",
+					"fr": "** | 🔨 L'ouvrier vous aperçoit et vous propose de fabriquer une épée avec lui. Enthousiasmé à l’idée d’obtenir une nouvelle arme, vous acceptez. Maladroit, vous ne mettez pas longtemps avant de laisser tomber votre lourde création sur votre pied. Gravement blessé, vous abandonnez l’idée de créer votre propre arme. :dizzy_face: !",
 					"en": "** | 🔨 The worker sees you and suggests that you make a sword with him. Enthusiastic about getting a new weapon, you accept. You don't take long to clumsily drop your heavy creation onto your foot. Seriously wounded, you give up the idea of creating your own weapon. :dizzy_face: !"
 				},
 				"lostTime": 0,
