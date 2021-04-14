@@ -57,7 +57,7 @@
 			},
 			{
 				"translations": {
-					"fr": "** | :deciduous_tree: Vous tombez dans une embuscade ! Après vous avoir volé tous vos bien, les brigands s'enfuient lâchement, gravement blessé vous tombez, évanoui. :head_bandage:",
+					"fr": "** | :deciduous_tree: Vous tombez dans une embuscade ! Après vous avoir volé tous vos biens, les brigands s'enfuient lâchement. Gravement blessé, vous sombrez dans l'inconscience. :head_bandage:",
 					"en": "** | :deciduous_tree: You fall into a trap! After stealing all you possess, the thieves fly away, like cowards. Deeply hurt, you fall unconscious. :head_bandage:"
 				},
 				"lostTime": 0,
@@ -85,7 +85,7 @@
 		"end": [
 			{
 				"translations": {
-					"fr": "** | :walking: Vous avez passé de longues minutes à discuter avec l'inconnue vous finissez par repartir ! En suivant ses indications vous arrivez rapidement à bon port.",
+					"fr": "** | :walking: Vous finissez par repartir après avez passé de longues minutes à discuter avec l'inconnue. En suivant ses indications, vous arrivez rapidement à bon port.",
 					"en": "** | :walking: After spending several minutes chatting with the mysterious woman you end up leaving. Following her directions, you arrive safely at the other end of the forest."
 				},
 				"lostTime": 45,
